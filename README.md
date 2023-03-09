@@ -1,4 +1,4 @@
-1. Make login (POST https://dummyjson.com/docs/auth) with username hbingley1 and password CQutx25i8r
+1. Make login (POST https://dummyjson.com/auth/login) with username hbingley1 and password CQutx25i8r
 Check that:
 * status code 200
 * id = 2
